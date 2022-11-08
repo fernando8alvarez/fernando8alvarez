@@ -9,25 +9,25 @@ Te cuento un poco sobre mi, soy desarrollador web proactivo, creativo, muy organ
 ☑️ **Today´s Recipe**: Es el nombre de mi primera single page apliacation (SPA) basada en React, Redux, CSS, Sequelize y Express, donde se manejo datos de una API externa de comida, especificamente recetas de comida. Link de la api 👉 https://spoonacular.com/food-api
 <p align="center">
   <a href="https://github.com/fernando8alvarez/My-PI-Food">
-  <img width="300" heigh="100" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I1.png" alt="Proyecto individial (Today´s Recipe)">
+  <img width="280" heigh="100" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I1.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
   <a href="https://github.com/fernando8alvarez/My-PI-Food">
-  <img width="300" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I2.png" alt="Proyecto individial (Today´s Recipe)">
+  <img width="280" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I2.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
   <a href="https://github.com/fernando8alvarez/My-PI-Food">
-  <img width="300" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I5.png" alt="Proyecto individial (Today´s Recipe)">
+  <img width="280" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I5.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
 </p>
 
 ☑️ **Cars-Market**: Desarrollo de una aplicación web grupal de publicidad para venta de autos, donde se implemento tecnologias tales como , pasarela de pago, autenticacion de terceros, cloudinary, local storage, borrado lógico, dashboard de administrador, notificaciones por mail, reviews y calificaciones. Link al deploy 👉https://carsmarket.vercel.app/
 <p align="center">
   <a href="https://github.com/fernando8alvarez/Cars-Market">
-  <img width="300" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I6.png" alt="Proyecto individial (Today´s Recipe)">
+  <img width="280" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I6.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
   <a href="https://github.com/fernando8alvarez/Cars-Market">
-  <img width="300" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I1.png" alt="Proyecto individial (Today´s Recipe)">
+  <img width="280" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I1.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
-  <a href="https://github.com/fernando8alvarez/Cars-Market"><img width="300" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I2.png" alt="Proyecto grupal (Cars-Market)"></a>
+  <a href="https://github.com/fernando8alvarez/Cars-Market"><img width="280" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I2.png" alt="Proyecto grupal (Cars-Market)"></a>
 </p>
 
 
