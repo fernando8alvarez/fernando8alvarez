@@ -30,4 +30,5 @@ Te cuento un poco sobre mi, soy desarrollador web proactivo, creativo, muy organ
   <a href="https://github.com/fernando8alvarez/Cars-Market"><img width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I2.png" alt="Proyecto grupal (Cars-Market)"></a>
 </p>
 
+* * *
 
