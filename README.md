@@ -1,6 +1,7 @@
 ![img not found](https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Banner.png)
-<!--
-**fernando8alvarez/fernando8alvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* * *
+
+<!-- **fernando8alvarez/fernando8alvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
