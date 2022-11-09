@@ -32,7 +32,7 @@ Te cuento un poco sobre mi, soy desarrollador web proactivo, creativo, muy organ
 
 * * *
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/anyel-lopez-dev/"><img width="80px" alt="Twitter" title="LinkedIn" src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834011_960_720.png"/></a>
+  <a href="https://www.linkedin.com/in/luis-fernando-alvarez-leccia-3a5b7b151/"><img width="100px" title="LinkedIn" src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834011_960_720.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
