@@ -6,7 +6,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 * * *
 ### 📚 Mis proyectos
 
-☑️ **Today´s Recipe**: Es el nombre de mi primera single page apliacation (SPA), mi proyecto individual basada en React, Redux, CSS, Sequelize y Express, donde se manejo datos de una API externa de comida, especificamente recetas de comida.
+☑️ **Today´s Recipe**: Es el nombre de mi primera single page apliacation (SPA), mi proyecto individual basada en React, Redux, CSS, Sequelize y Express, donde se manejo datos de una API externa de comida, especificamente recetas de comida. Click en las imagenes para ver el repo.
 <p align="center">
   <a href="https://github.com/fernando8alvarez/My-PI-Food" title="click para ir al repositorio">
   <img width="250px" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I1.png" alt="Proyecto individial (Today´s Recipe)">
@@ -19,7 +19,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   </a>
 </p>
 
-☑️ **Cars-Market**: Desarrollo de una aplicación web grupal de publicidad para venta de autos, donde se implemento tecnologias tales como , pasarela de pago, autenticacion de terceros, cloudinary, local storage, borrado lógico, dashboard de administrador, notificaciones por mail, reviews y calificaciones. Link al deploy 👉  https://carsmarket.vercel.app/
+☑️ **Cars-Market**: Desarrollo de una aplicación web grupal de publicidad para venta de autos, donde se implemento tecnologias tales como , pasarela de pago, autenticacion de terceros, cloudinary, local storage, borrado lógico, dashboard de administrador, notificaciones por mail, reviews y calificaciones. Link al deploy 👉  https://carsmarket.vercel.app/ . Click en las imagenes para ver el repo.
 <p align="center">
   <a href="https://github.com/fernando8alvarez/Cars-Market" title="click para ir al repositorio">
   <img width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20grupal%20I6.png" alt="Proyecto individial (Today´s Recipe)">
