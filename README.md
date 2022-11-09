@@ -2,7 +2,7 @@
 * * *
 ### Hola, estoy contento de verte por aqui, bienvenid@ a mi perfil 👋
 
-Te cuento un poco sobre mi, soy desarrollador web proactivo, creativo, muy organizado, eficiente, autodidacta, que esta atento a los detalles, con ganas de aprender, con excelentes aptitudes para el trabajo en equipo y siempre dispuesto a enseñar, aprender de los demas y asumir retos. Gracias a mi carrerra en Henry como desarrrollador, a mi disposición de siempre estar en constante aprendisaje y a mi motivación por la tecnología, he logrado desarrollar muchos conocimientos sobre las siguientes tecnologias, lenguajes y metodologías durante toda mi formación como desarrollado. Actualmente me encuentro en la ***busqueda activa de un empleo*** 💼, quedate si quieres saber mas de mi trayectoria y mis proyectos.
+Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, eficiente, autodidacta, que esta atento a los detalles, con ganas de aprender, con excelentes aptitudes para el trabajo en equipo y siempre dispuesto a enseñar, aprender de los demas y asumir retos. Gracias a mi carrerra en Henry como desarrrollador, a mi disposición de siempre estar en constante aprendisaje y a mi motivación por la tecnología, he logrado desarrollar muchos conocimientos sobre las siguientes tecnologias, lenguajes y metodologías durante toda mi formación como desarrollado. Actualmente me encuentro en la ***busqueda activa de un empleo*** 💼, quedate si quieres saber mas de mi trayectoria y mis proyectos.
 * * *
 ### 📚 Mis proyectos
 
