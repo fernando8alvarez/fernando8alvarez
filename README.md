@@ -6,7 +6,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 * * *
 ### 📚 Mis proyectos
 
-☑️ **Today´s Recipe**: Es el nombre de mi primera single page apliacation (SPA), mi proyecto individual basada en React, Redux, CSS, Sequelize y Express, donde se manejo datos de una API externa de comida, especificamente recetas de comida. Click en las imagenes para ver el repo. link del deploy 👉 https://todays-recipe.vercel.app/ 
+☑️ **Today´s Recipe**: Es el nombre de mi primera single page apliacation (SPA), mi proyecto individual basada en React, Redux, CSS, Sequelize y Express, donde se manejo datos de una API externa de comida, especificamente recetas de comida. Link del deploy 👉 https://todays-recipe.vercel.app/  Click en las imagenes para ver el repo.
 <p align="center">
   <a href="https://github.com/fernando8alvarez/My-PI-Food" title="click para ir al repositorio">
   <img heigth="100" width="300" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Pi%20landing-page.png" alt="Proyecto individial (Today´s Recipe)">
