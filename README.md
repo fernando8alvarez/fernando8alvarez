@@ -12,7 +12,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <img width="250px" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I1.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
   <a href="https://github.com/fernando8alvarez/My-PI-Food" title="click para ir al repositorio">
-  <img width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I2.png" alt="Proyecto individial (Today´s Recipe)">
+  <img width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/PI%20Home.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
   <a href="https://github.com/fernando8alvarez/My-PI-Food" title="click para ir al repositorio">
   <img width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Proyecto%20individual%20I5.png" alt="Proyecto individial (Today´s Recipe)">
