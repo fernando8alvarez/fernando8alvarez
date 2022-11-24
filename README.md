@@ -36,10 +36,10 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <img width="70px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"/>
   </a>
   <a href="">
-  <img height="70px" title="Descargar mi CV" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/cv%20(1).png"/>
+  <img height="70px" title="Descargar mi CV" src="https://drive.google.com/file/d/1E8meL1NZF5dtnYrHaQP4UXi2gJzEubBB/view?usp=sharing"/>
   </a>
   <a href="">
-  <img height="75px" title="proximamente" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/portafolio.png"/>
+  <img height="75px" title="proximamente" src="#"/>
   </a>
 </p>
 
