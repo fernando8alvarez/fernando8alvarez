@@ -2,7 +2,7 @@
 * * *
 ### Hola, estoy contento de verte por aqui, bienvenid@ a mi perfil 👋
 
-Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, eficiente, autodidacta, que esta atento a los detalles, con ganas de aprender, con excelentes aptitudes para el trabajo en equipo y siempre dispuesto a enseñar, aprender de los demas y asumir retos. Gracias a mi carrerra en Henry como desarrrollador, a mi disposición de siempre estar en constante aprendisaje y a mi motivación por la tecnología, he logrado desarrollar muchos conocimientos sobre nuevas tecnologias, lenguajes y metodologías durante toda mi formación como desarrollado, para asi demostrar todo mi potencial en el campo laboral. Actualmente me encuentro en la ***busqueda activa de un empleo*** 💼. Quedate si quieres saber mas de mi trayectoria y mis proyectos.
+Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, eficiente, autodidacta, que esta atento a los detalles, con ganas de aprender, con excelentes aptitudes para el trabajo en equipo y siempre dispuesto a enseñar, aprender de los demas y asumir retos. Gracias a mi carrerra en Henry como desarrrollador, a mi disposición de siempre estar en constante aprendisaje y a mi motivación por la tecnología, he logrado desarrollar muchos conocimientos sobre nuevas tecnologias, lenguajes y metodologías durante toda mi formación como programador, para asi demostrar todo mi potencial en el campo laboral. Actualmente me encuentro en la ***busqueda activa de un empleo*** 💼. Quedate si quieres saber mas de mi trayectoria y mis proyectos.
 * * *
 ### 📚 Mis proyectos
 
@@ -35,7 +35,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <a href="https://www.linkedin.com/in/luis-fernando-alvarez-leccia-3a5b7b151/">
   <img width="70px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"/>
   </a>
-  <a href="https://drive.google.com/file/d/1E8meL1NZF5dtnYrHaQP4UXi2gJzEubBB/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1MVD7VAzOYuL-TZRn9kve0NGorVS3Nc8T/view?usp=sharing">
   <img height="70px" title="Descargar mi CV" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/cv%20(1).png"/>
   </a>
   <a href="#">
