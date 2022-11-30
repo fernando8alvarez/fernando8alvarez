@@ -38,7 +38,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <a href="https://drive.google.com/file/d/1MVD7VAzOYuL-TZRn9kve0NGorVS3Nc8T/view?usp=sharing">
   <img height="70px" title="Descargar mi CV" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/cv%20(1).png"/>
   </a>
-  <a href="#">
+  <a href="https://portafolio-luis-alvarez.vercel.app/">
   <img height="75px" title="proximamente" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/portafolio.png"/>
   </a>
 </p>
