@@ -33,13 +33,13 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 * * *
 <p align="center"> 
   <a href="https://www.linkedin.com/in/luis-fernando-alvarez-leccia-3a5b7b151/">
-  <img width="70px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"/>
+  <img width="70px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png" text-decoration-line="none"/>
   </a>
   <a href="https://drive.google.com/file/d/1XskrDGNAtJ9QR-OQ9rskPD0qF1AWcjui/view?usp=sharing">
-  <img height="70px" title="Descargar mi CV" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/cv%20(1).png"/>
+  <img height="70px" title="Descargar mi CV" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/cv%20(1).png" text-decoration-line="none"/>
   </a>
   <a href="https://portafolio-luis-alvarez.vercel.app/">
-  <img height="75px" title="Ir a mi portafolio" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/portafolio.png"/>
+  <img height="75px" title="Ir a mi portafolio" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/portafolio.png" text-decoration-line="none"/>
   </a>
 </p>
 
