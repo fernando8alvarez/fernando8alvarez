@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
 
 ![img not found](https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Banner.png)
 * * *
@@ -45,7 +44,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 
 <p align="center">
   <a href="https://github.com/fernando8alvarez/gestion_pacientes" title="click para ir al repositorio">
-  <img heigth="100" width="240" src="https://github.com/fernando8alvarez/gestion_pacientes/blob/main/imgs/responsividad.png" alt="Proyecto (Gestion Pacientes)" class="icon1">
+  <img heigth="100" width="240" src="https://github.com/fernando8alvarez/gestion_pacientes/blob/main/imgs/responsividad.png" alt="Proyecto (Gestion Pacientes)">
   </a>
   <a href="https://github.com/fernando8alvarez/gestion_pacientes" title="click para ir al repositorio">
   <img heigth="100" width="250" src="https://github.com/fernando8alvarez/gestion_pacientes/blob/main/imgs/P1.png" alt="Proyecto (Gestion Pacientes)">
@@ -58,7 +57,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 
 <p align="center" > 
   <a href="https://www.linkedin.com/in/luis-fernando-alvarez-leccia-3a5b7b151/" >
-  <img width="60px" class="icon1" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"  />
+  <img width="60px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"  />
   </a>
  
   <a href="https://drive.google.com/file/d/1TU6dOjNIaH_f_dbuMrbeWwQGnleB6Pw5/view?usp=sharing">
