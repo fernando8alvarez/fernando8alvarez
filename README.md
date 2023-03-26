@@ -53,6 +53,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 </p>
 
 * * *
+
 <p align="center"> 
   <a href="https://www.linkedin.com/in/luis-fernando-alvarez-leccia-3a5b7b151/">
   <img width="70px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png" />
@@ -63,6 +64,10 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <a href="https://portafolio-luis-alvarez.vercel.app/">
   <img height="75px" title="Ir a mi portafolio" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/portafolio.png" />
   </a>
+</p>
+
+<p align="center">
+ <b>Copyright Luis F Alvarez © 2023<b>
 </p>
 
 * * *
