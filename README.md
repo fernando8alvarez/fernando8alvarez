@@ -58,7 +58,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 
 <p align="center" > 
   <a href="https://www.linkedin.com/in/luis-fernando-alvarez-leccia-3a5b7b151/" >
-  <img width="60px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"  />
+  <img width="60px" class="icon1" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"  />
   </a>
  
   <a href="https://drive.google.com/file/d/1TU6dOjNIaH_f_dbuMrbeWwQGnleB6Pw5/view?usp=sharing">
