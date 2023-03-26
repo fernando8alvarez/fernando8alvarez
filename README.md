@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 ![img not found](https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Banner.png)
 * * *
 ### Hola, estoy contento de verte por aqui, bienvenid@ a mi perfil 👋
@@ -43,7 +45,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 
 <p align="center">
   <a href="https://github.com/fernando8alvarez/gestion_pacientes" title="click para ir al repositorio">
-  <img heigth="100" width="240" src="https://github.com/fernando8alvarez/gestion_pacientes/blob/main/imgs/responsividad.png" alt="Proyecto (Gestion Pacientes)">
+  <img heigth="100" width="240" src="https://github.com/fernando8alvarez/gestion_pacientes/blob/main/imgs/responsividad.png" alt="Proyecto (Gestion Pacientes)" class="icon1">
   </a>
   <a href="https://github.com/fernando8alvarez/gestion_pacientes" title="click para ir al repositorio">
   <img heigth="100" width="250" src="https://github.com/fernando8alvarez/gestion_pacientes/blob/main/imgs/P1.png" alt="Proyecto (Gestion Pacientes)">
