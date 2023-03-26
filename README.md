@@ -38,7 +38,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <img heigth="100" width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Inicio-Registro.png" alt="Proyecto grupal (Cars-Market)"></a>
 </p>
 
-☑️ **Gestion de pacientes**: Desarrollo de una pequeña aplicación sobre seguimiento de pacientes en un centro médico, diseñada con tecnologias tales como, formulario controlado, validacion de campos, local storage, listado de pacientes, edicion y eliminación de pacientes y responsividad 👉 Click en las imagenes para ver el repo.
+☑️ **Gestión de pacientes**: Desarrollo de una pequeña aplicación sobre seguimiento de pacientes en un centro médico, diseñada con tecnologias tales como, formulario controlado, validacion de campos, local storage, listado de pacientes, edicion y eliminación de pacientes y responsividad 👉 Click en las imagenes para ver el repo.
 
 - `Link deploy:` [Sistema de gestion de pacientes](https://sistema-gestion-pacientes.netlify.app/)
 
