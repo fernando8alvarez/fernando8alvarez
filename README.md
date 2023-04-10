@@ -70,7 +70,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 </p>
 
 <p align="center">
- <b>Copyright Luis F Alvarez © 2023<b>
+ <b>© Copyright 2023 - Luis F Alvarez  <b>
 </p>
 
 * * *
