@@ -13,13 +13,13 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 
 <p align="center">
   <a href="https://github.com/fernando8alvarez/Control-Gastos" title="click para ir al repositorio">
-  <img heigth="100" width="240" src="https://github.com/fernando8alvarez/Control-Gastos/blob/main/img/1-LandingPage.png" alt="Proyecto (Control Gastos)">
+  <img heigth="100" width="240" src="https://github.com/fernando8alvarez/Control-Gastos/blob/main/Imgs/1-LandingPage.png" alt="Proyecto (Control Gastos)">
   </a>
   <a href="https://github.com/fernando8alvarez/Control-Gastos" title="click para ir al repositorio">
-  <img heigth="https://github.com/fernando8alvarez/Control-Gastos/blob/main/img/2-Panel.png" alt="Proyecto (Control Gastos)">
+  <img heigth="100" width="240" src="https://github.com/fernando8alvarez/Control-Gastos/blob/main/Imgs/2-Panel.png" alt="Proyecto (Control Gastos)">
   </a>
   <a href="https://github.com/fernando8alvarez/Control-Gastos" title="click para ir al repositorio">
-  <img heigth="100" width="250" src="https://github.com/fernando8alvarez/Control-Gastos/blob/main/img/3-Formulario.png" alt="Proyecto (Control Gastos)"></a>
+  <img heigth="100" width="250" src="https://github.com/fernando8alvarez/Control-Gastos/blob/main/Imgs/3-Formulario.png" alt="Proyecto (Control Gastos)"></a>
 </p>
 
 ☑️ **Gestión de pacientes**: Desarrollo de una pequeña aplicación sobre seguimiento de pacientes en un centro médico, diseñada con tecnologias tales como, formulario controlado, validación de campos, local storage, listado de pacientes, edición y eliminación de pacientes y responsividad 👉 Click en las imagenes para ver el repo.
@@ -66,21 +66,6 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <a href="https://github.com/fernando8alvarez/My-PI-Food" title="click para ir al repositorio">
   <img heigth="100" width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Pi%20detalles.png" alt="Proyecto individial (Today´s Recipe)">
   </a>
-</p>
-
-☑️ **Cars-Market**: Desarrollo de una aplicación web grupal de publicidad para venta de autos, donde se implemento tecnologias tales como , pasarela de pago, autenticacion de terceros, cloudinary, local storage, borrado lógico, dashboard de administrador, notificaciones por mail, reviews y calificaciones. 👉Click en las imagenes para ver el repo.
-
-- `Link deploy:` [Cars-Market](https://carsmarket.vercel.app/)
-
-<p align="center">
-  <a href="https://github.com/fernando8alvarez/Cars-Market" title="click para ir al repositorio">
-  <img heigth="100" width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Landing%20Page.png" alt="Proyecto grupal (Cars-Market)">
-  </a>
-  <a href="https://github.com/fernando8alvarez/Cars-Market" title="click para ir al repositorio">
-  <img heigth="100" width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Home.png" alt="Proyecto grupal (Cars-Market)">
-  </a>
-  <a href="https://github.com/fernando8alvarez/Cars-Market" title="click para ir al repositorio">
-  <img heigth="100" width="250" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Inicio-Registro.png" alt="Proyecto grupal (Cars-Market)"></a>
 </p>
 
 * * *
