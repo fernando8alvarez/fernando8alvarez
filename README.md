@@ -7,7 +7,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
 * * *
 ### 📚 Mis proyectos
 
-☑️ **Control de gastos**:  👉 Click en las imagenes para ver el repo.
+☑️ **Control de gastos**: Desarrollo de un app sobre un sistema de control de gastos personales, permite a sus usarios llevar un seguimiento de sus gastos de forma fácil y visualmente atractiva. Incluye tecnologias como formularios controlados, selcción de moneda segun el pais, localStorage, anmimaciones, grafico de barra circular, deslisamiento para borrar o editar gastos, entre otras  👉 Click en las imagenes para ver el repo.
 
 - `Link deploy:` [Sistema de control de gastos](https://sistema-control-gastos.netlify.app/)
 
