@@ -75,7 +75,7 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <img width="60px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"  />
   </a>
  
-  <a href="https://drive.google.com/file/d/1P6HRrlkLkrGh3BSXOKGVddc7z-CdWjop/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1L6o2BEq3ounH4bQJgTnnYtieDqQImCIs/view?usp=sharing">
   <img height="60px" title="Descargar mi CV" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/cv.png" />
   </a>
   
