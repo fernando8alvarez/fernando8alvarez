@@ -75,12 +75,12 @@ Te cuento un poco sobre mi, soy un chico proactivo, creativo, muy organizado, ef
   <img width="60px" title="Ir a mi LinkedIn" src="https://github.com/fernando8alvarez/fernando8alvarez/blob/main/linkedin.png"  />
   </a>
  
-  <a href="https://drive.google.com/file/d/1TU6dOjNIaH_f_dbuMrbeWwQGnleB6Pw5/view?usp=sharing">
-  <img height="60px" title="Descargar mi CV" src="https://drive.google.com/file/d/1P6HRrlkLkrGh3BSXOKGVddc7z-CdWjop/view?usp=sharing" />
+  <a href="https://drive.google.com/file/d/1P6HRrlkLkrGh3BSXOKGVddc7z-CdWjop/view?usp=sharing">
+  <img height="60px" title="Descargar mi CV" src="" />
   </a>
   
-  <a href="https://portafolio-luis-alvarez.vercel.app/">
-  <img height="65px" title="Ir a mi portafolio" src="https://luis-alvarez-portafolio.vercel.app/" />
+  <a href="https://luis-alvarez-portafolio.vercel.app">
+  <img height="65px" title="Ir a mi portafolio" src="/" />
   </a>
 </p>
 
