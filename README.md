@@ -1,5 +1,5 @@
 
-![img not found](https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Banner%20Github.png)
+![img not found](https://github.com/fernando8alvarez/fernando8alvarez/blob/main/Banner%20Github%202.png)
 * * *
 ### Hola, estoy contento de verte por aqui, bienvenid@ a mi perfil 👋
 
